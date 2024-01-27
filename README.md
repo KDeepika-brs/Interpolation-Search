@@ -4,4 +4,4 @@
 
 ##### The function returns the index of the target if found, or **-1** if the target is not present in the array. Interpolation search is particularly useful for uniformly distributed and sorted data.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Interpolation-Search/).
